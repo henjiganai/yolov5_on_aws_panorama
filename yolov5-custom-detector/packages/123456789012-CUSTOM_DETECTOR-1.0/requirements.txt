@@ -1,0 +1,6 @@
+boto3
+opencv-python
+torch
+torchvision
+pandas
+ultralytics
